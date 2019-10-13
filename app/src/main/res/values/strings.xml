@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">bluetoothclass2</string>
+    <string name="support_bluetooth">支持蓝牙？</string>
+    <string name="is_turn_on">蓝牙状态？</string>
+    <string name="turn_on_blue_tooth">打开蓝牙</string>
+    <string name="turn_off_blue_tooth">关闭蓝牙</string>
+</resources>
